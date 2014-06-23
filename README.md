@@ -2,6 +2,5 @@ Sounds of Coffee Revolution
 =================
 
 Built with:
-* CreateJS
-* SoundJS
-* SVGWeb
+* [SoundJS](http://www.createjs.com/#!/SoundJS)
+* [SVGWeb](https://code.google.com/p/svgweb/)
